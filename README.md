@@ -1,5 +1,5 @@
 # AlexaApp
-Voice driven story game for Alexa devices.
+Voice driven story game for Amazon Alexa devices.
 
 
 Application similar to the first text based game 'Zork', using Alexa you can play this game by talking to your device to forward the story.
