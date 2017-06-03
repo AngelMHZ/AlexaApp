@@ -1,0 +1,18 @@
+AnswerIntent Let's search for a {Answer}
+AnswerIntent Look for a {Answer}
+AnswerIntent Let's {Answer} around
+AnswerIntent Go {Answer}
+AnswerIntent Go to the {Answer}
+AnswerIntent Let's look for a {Answer}
+AnswerIntent {Answer} the window
+AnswerIntent Let's go {Answer}
+AnswerIntent Let's go to a {Answer} 
+AnswerIntent Let's {Answer} it
+AnswerIntent Let's {Answer}
+AnswerIntent Let's go look {Answer}
+AnswerOnlyIntent {Answer}
+
+AMAZON.StartOverIntent start game
+AMAZON.StartOverIntent new game
+AMAZON.StartOverIntent start
+AMAZON.StartOverIntent start new game
